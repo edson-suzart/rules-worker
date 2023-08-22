@@ -1,0 +1,15 @@
+C:\Users\edson.prates\source\repos\src\RulesWorker\RulesWorkerPoc\bin\Debug\net6.0\RulesWorkerPoc.exe
+C:\Users\edson.prates\source\repos\src\RulesWorker\RulesWorkerPoc\bin\Debug\net6.0\RulesWorkerPoc.deps.json
+C:\Users\edson.prates\source\repos\src\RulesWorker\RulesWorkerPoc\bin\Debug\net6.0\RulesWorkerPoc.runtimeconfig.json
+C:\Users\edson.prates\source\repos\src\RulesWorker\RulesWorkerPoc\bin\Debug\net6.0\RulesWorkerPoc.dll
+C:\Users\edson.prates\source\repos\src\RulesWorker\RulesWorkerPoc\bin\Debug\net6.0\RulesWorkerPoc.pdb
+C:\Users\edson.prates\source\repos\src\RulesWorker\RulesWorkerPoc\obj\Debug\net6.0\RulesWorkerPoc.csproj.AssemblyReference.cache
+C:\Users\edson.prates\source\repos\src\RulesWorker\RulesWorkerPoc\obj\Debug\net6.0\RulesWorkerPoc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edson.prates\source\repos\src\RulesWorker\RulesWorkerPoc\obj\Debug\net6.0\RulesWorkerPoc.AssemblyInfoInputs.cache
+C:\Users\edson.prates\source\repos\src\RulesWorker\RulesWorkerPoc\obj\Debug\net6.0\RulesWorkerPoc.AssemblyInfo.cs
+C:\Users\edson.prates\source\repos\src\RulesWorker\RulesWorkerPoc\obj\Debug\net6.0\RulesWorkerPoc.csproj.CoreCompileInputs.cache
+C:\Users\edson.prates\source\repos\src\RulesWorker\RulesWorkerPoc\obj\Debug\net6.0\RulesWorkerPoc.dll
+C:\Users\edson.prates\source\repos\src\RulesWorker\RulesWorkerPoc\obj\Debug\net6.0\refint\RulesWorkerPoc.dll
+C:\Users\edson.prates\source\repos\src\RulesWorker\RulesWorkerPoc\obj\Debug\net6.0\RulesWorkerPoc.pdb
+C:\Users\edson.prates\source\repos\src\RulesWorker\RulesWorkerPoc\obj\Debug\net6.0\RulesWorkerPoc.genruntimeconfig.cache
+C:\Users\edson.prates\source\repos\src\RulesWorker\RulesWorkerPoc\obj\Debug\net6.0\ref\RulesWorkerPoc.dll
